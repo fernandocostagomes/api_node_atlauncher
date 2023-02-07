@@ -1,0 +1,19 @@
+{
+  "name": "api_node_atlauncher",
+  "version": "1.0.0",
+  "description": "Projeto destinado a API de de recursos para o sistema de gerenciamento remoto de dispositivos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandocostagomes/api_node_atlauncher.git"
+  },
+  "author": "Fernando Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandocostagomes/api_node_atlauncher/issues"
+  },
+  "homepage": "https://github.com/fernandocostagomes/api_node_atlauncher#readme"
+}
